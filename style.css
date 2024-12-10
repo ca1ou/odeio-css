@@ -1,0 +1,45 @@
+body {
+    background-color: pink;
+    margin: 0 auto;
+}
+
+div {
+    display: flex;
+    border: 2px solid black;
+
+}
+
+#onediv {
+    background-color: blue;
+    border-top: none;
+    margin-bottom: 80px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+#introdiv {
+    background-color: yellow;
+    margin-top: 80px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-bottom: 15px;
+    padding-right: 580px;
+}
+
+#twointrodiv {
+    background-color: aliceblue;
+    margin: 10px;
+    margin-top: 20px;
+    margin-left: 20px;
+    padding-bottom: 60px;
+    padding-right: 450px;
+}
+
+#navdiv {
+    background-color: blueviolet;
+    border-top: none;
+    border-left: none;
+    border-bottom: none;
+    padding-right: 300px;
+    padding-bottom: 310px;
+}
