@@ -1,0 +1,63 @@
+body {
+    background-image: url(imagens/kirbybg.webp);
+    margin: 0 auto;
+}
+
+div {
+    display: flex;
+    border: 2px solid black;
+
+}
+
+#onediv {
+    background-color: blue;
+    border-top: none;
+    margin-bottom: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+#introdiv {
+    background-color: yellow;
+    margin-top: 80px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-bottom: 15px;
+    padding-right: 580px;
+}
+
+#twointrodiv {
+    background-image: url(imagens/images.jpeg);
+    margin: 10px;
+    margin-top: 20px;
+    margin-left: 20px;
+    padding-bottom: 150px;
+    padding-right: 320px;
+}
+
+#navdiv {
+    background-color: blueviolet;
+    border-top: none;
+    border-left: none;
+    border-bottom: none;
+    padding-right: 10px;
+}
+
+nav {
+    padding: 10px;
+    text-align: center;
+}
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+nav ul li {
+    background-color: aqua;
+    border: 2px solid black;
+    padding: 20px;
+    padding-right: 80px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    display: table;
+}
